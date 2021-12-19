@@ -16,5 +16,5 @@ Based on the data the smaller schools (ranging from <1000 students to >2300 stud
 <img width="807" alt="School Size" src="https://user-images.githubusercontent.com/94723290/146695075-242d5a87-254f-43b8-b25f-642a2ad0feeb.png">
 
 ## Summary 
-In this analysis there were a couple vital changes that directly affected the outcome. Removing the ninth grade scores from Thomas High School showed that the school was doing phenomenal and ranked high versus several other schools. Secondly, the schools with a lower number of students had bvetter averages than those with more students. 
+In this analysis there were a couple vital changes that directly affected the outcome. Removing the ninth grade scores from Thomas High School showed that the school was doing phenomenal and ranked high versus several other schools. Secondly, the schools with a lower number of students had better averages than those with more students. 
 The school budget is largley based on how many students their are, but grades play a major role. The School Board should definiely look into the fundiong of the larger schools with the larger budget per student. How is their funding being used? 
