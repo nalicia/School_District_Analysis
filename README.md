@@ -3,7 +3,7 @@ Analyzing school data using Python
 ## Overview 
 This week my task was to aid Maria in analyzing Standerdized Test scores for the schools in the district. We needed to test the data for insights on performance, identify trends and come up with a strategic solution to solve the question of how much funding each school will recieve the following year. As we were finishing up the school board supervisor notified maria that the csv file we used to complete the analysis showed academic dishonesty. In turn we needed to take out the corrupted data so that our analysis would be fair and honest. We needed to replace the math and reading scores of the ninth graders attending Thomas High Shool. Keeping the other data intact I replaces the reading and math scores with NaN. The last step was redoing the district analysis to see how the changes affected the overall analysis. 
 ## Results
-The percentage of Thomas High SChools' overall passing in the district summary DataFrame skyrocketed from 65% to 90%. Likewise the reading and math averages, as well as reading and math percentages for Thomas High School increased as well. 
+The percentage of Thomas High Schools' overall passing in the district summary DataFrame skyrocketed from 65% to 90%. Likewise the reading and math averages, as well as reading and math percentages for Thomas High School increased as well. 
 <img width="1065" alt="Thomas High School Refractored" src="https://user-images.githubusercontent.com/94723290/146695041-8d1fb200-39f4-4202-9e4a-b145fb0701ac.png">
 Removing the ninth grade scores from Thomas High School proved that the average reading and math scores of the 10th, 11th, and 12th graders were relativley high. 
 
@@ -16,4 +16,5 @@ Based on the data the smaller schools (ranging from <1000 students to >2300 stud
 <img width="807" alt="School Size" src="https://user-images.githubusercontent.com/94723290/146695075-242d5a87-254f-43b8-b25f-642a2ad0feeb.png">
 
 ## Summary 
-The school budget is largley based on how many students their are, but grades also play a factor. 
+In this analysis there were a couple vital changes that directly affected the outcome. Removing the ninth grade scores from Thomas High School showed that the school was doing phenomenal and ranked high versus several other schools. Secondly, the schools with a lower number of students had bvetter averages than those with more students. 
+The school budget is largley based on how many students their are, but grades play a major role. The School Board should definiely look into the fundiong of the larger schools with the larger budget per student. How is their funding being used? 
